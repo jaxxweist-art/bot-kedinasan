@@ -1,0 +1,18 @@
+{
+  "telegram": {
+    "token": "8048219675:AAHGtRVVkhcwVmZ-b5p0ThOJBmhD0bNqIyQ",
+    "chat_id": "6853340034"
+  },
+  "universitas_pantau": {
+    "unhas": {
+      "nama": "Universitas Hasanuddin",
+      "url_pendaftaran": "https://regpmb.unhas.ac.id/",
+      "data_jurusan": null
+    },
+    "ui": {
+      "nama": "Universitas Indonesia",
+      "url_pendaftaran": "https://penerimaan.ui.ac.id/",
+      "data_jurusan": null
+    }
+  }
+}
